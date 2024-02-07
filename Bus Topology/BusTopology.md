@@ -1,0 +1,1 @@
+The bus topology is a simple network topology where all network devices are connected to a single communication line, called a bus. In this design, you will find a representation of a bus topology network created using Cisco Packet Tracer. This design serves as an educational resource for understanding the bus topology and its implementation in a simulated environment.

@@ -1,0 +1,1 @@
+The ring topology is a network configuration where each network device is connected to two other devices, forming a closed loop. In this design, you will find a representation of a ring topology network created using Cisco Packet Tracer. This design serves as an educational resource for understanding the ring topology and its implementation in a simulated environment.
