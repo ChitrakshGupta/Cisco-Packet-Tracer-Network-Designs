@@ -1,4 +1,4 @@
-**README: Cisco Packet Tracer Network Designs**
+**Cisco Packet Tracer Network Designs**
 
 ## Introduction
 Welcome! This repository contains various network designs created using Cisco Packet Tracer, an educational tool for network simulation.
