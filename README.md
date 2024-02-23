@@ -10,7 +10,9 @@ Welcome! This repository contains various network designs created using Cisco Pa
 4. [Contributing](#contributing)
 
 ## Description
-Explore different network topologies and scenarios for learning purposes.
+Explore different network topologies and scenarios for learning purposes
+
+
 
 ## Installation
 Download and install Cisco Packet Tracer from the official website.
